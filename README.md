@@ -55,7 +55,7 @@ li {
      <div id="main">
         <h1 id="title">Muhammed Fethullah Gulen</h1>
         <div id="img-div">
-            <img src="https://www.google.co.uk/url?sa=i&source=images&cd=&ved=2ahUKEwjp6p-n94bfAhUHUhoKHS4sAg4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.shaber3.com%2Ffethullah-gulen-hocaefendi-canli-yayinda-haberi%2F1257490%2F&psig=AOvVaw2jbPSmP4zK1u5bYKDrbqIS&ust=1544038906897332" alt="" id="image">
+            <img src="https://www.google.co.uk/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwje0bqC-IbfAhXkC8AKHd1_CzsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fpeople%2Fwho-is-fethullah-gulen-turkey-coup-president-erdogan-muslim-cleric-who-caused-the-overthrow-attempt-a7140676.html&psig=AOvVaw2WZR84KTaYwiaqPIoJdE6M&ust=1544039094868572" alt="" id="image">
             <div id="img-caption">Hocaefendi</div>
         </div>
         <div id="tribute-info">
