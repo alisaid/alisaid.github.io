@@ -1,45 +1,86 @@
-
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>GitHub &amp; BitBucket HTML Preview</title>
-	<style>
-	body {
-		font: 12px 'Helvetica Neue', Helvetica, Arial, freesans, clean, sans-serif;
-		color: #333;
-	}
-	h1 {
-		font-size: 20px;
-	}
-	a {
-		color: #666;
-	}
-	form {
-		padding: 20px; 
-		text-align: center;
-	}
-	strong {
-		color: #333;
-		background-color: #FAFFA6;
-		padding: 0.1em;
-	}
-	#footer {
-		margin: 20px 0;
-		font-size: 10px;
-		color: #666;
-	}
-	</style>
-</head>
-<body>
-	<form id="previewform" action="">
-		<h1>GitHub &amp; BitBucket HTML Preview</h1>
-		<p>Enter URL of the HTML file to preview: <input type="url" id="file" value="" placeholder="e.g. https://github.com/user/repo/blob/master/index.html" size="60" autofocus> <input type="submit" value="&raquo;"></p>
-		<p>or prepend to the URL: <strong>http://htmlpreview.github.io/?</strong>https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html</p>
-		<p>or use this bookmarklet while browsing GitHub or BitBucket: <a href="javascript:void('http://htmlpreview.github.io/'==window.location?alert('Drag me to your bookmarks bar!'):window.location='http://htmlpreview.github.io/?'+window.location)"><strong>HTMLPreview</strong></a></p>
-		<p id="footer">Developed by <a href="https://github.com/niutech">niu tech</a> | Contribute on <a href="https://github.com/htmlpreview/htmlpreview.github.com">GitHub</a></p>
-	</form>
-	<script src="/htmlpreview.min.js"></script>
-	<script>HTMLPreview.init();</script>
-</body>
+    <head>
+        <meta charset="utf-8">
+        <title id="title">Marriage Ceremony invitation</title>
+        <style>
+
+body {
+    background: linear-gradient(35deg, #f7f7c1, #cccccc);
+    font-family: 'Domine', serif;
+}
+
+#main {
+    margin: auto;
+    width: 85%;
+}
+#title, #img-caption {
+    text-align: center;
+}
+
+#img-caption {
+    margin: 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#tribute-info {
+    margin: 5px auto;
+    width: 85%;
+    font-size: 16px;
+}
+
+#timeline-caption{    
+    font-size: 19px;
+    font-weight: bold;
+}
+
+img {
+    margin: auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 5px 0;    
+}
+
+li {
+    margin: 15px auto;
+}
+
+
+        </style>
+    </head>
+    <body>
+     <div id="main">
+        <h1 id="title">Freddie Mercury — Show Must Go On</h1>
+        <div id="img-div">
+            <img src="http://i.huffpost.com/gen/2026402/images/o-FREDDIE-MERCURY-CROWN-facebook.jpg" alt="" id="image">
+            <div id="img-caption">Freddie Mercury</div>
+        </div>
+        <div id="tribute-info">
+            <p id="timeline-caption">Here's a timeline of Freddie Mercury's life:</p>
+            <ul>
+                <li><strong>1946</strong>&nbsp;&#8212;&nbsp;Farrokh Bulsara (Freddie Mercury) was born in Zanzibar, Tanzania on September 5, 1946</li>
+                <li><strong>1954</strong>&nbsp;&#8212;&nbsp;At the Age of eight, Farrokh began his education at St. Peters English boarding school (near Bombay, India)</li>
+                <li><strong>1958</strong>&nbsp;&#8212;&nbsp;While in school, Farrokh began referring to himself as Freddie, and in 1958, he formed a music group, The Hectics.</li>
+                <li><strong>1964</strong>&nbsp;&#8212;&nbsp;Freddie Mercury moved to Middlesex, England in 1964, at the age of 17.</li>
+                <li><strong>1967</strong>&nbsp;&#8212;&nbsp;Freddie joined the band Smile with Roger Talyor and Brian May, and Tim Staffel.</li>
+                <li><strong>1970</strong>&nbsp;&#8212;&nbsp;In 1970, Freddie Mercury took over as the lead singer of Smile, and renamed the band Queen.</li>
+                <li><strong>1975</strong>&nbsp;&#8212;&nbsp;The album A Night At The Opera was released</li>
+                <li><strong>1975</strong>&nbsp;&#8212;&nbsp;Freddie Mercury toured Japan with Queen</li>
+                <li><strong>1984</strong>&nbsp;&#8212;&nbsp;Queen decided to take a break. During that break, Freddie Mercury decided to release a solo album called Love Kills.</li>
+                <li><strong>1988</strong>&nbsp;&#8212;&nbsp;The Open Air festival in Barcelona, on October 8th, was Freddie Mercury's last performance.</li>
+                <li><strong>1991</strong>&nbsp;&#8212;&nbsp;The album Innuendo was released in 1991</li>
+                <li><strong>1991</strong>&nbsp;&#8212;&nbsp;November 23, 1991, the day before he died, Freddie Mercury announced that he had AIDS.</li>
+                <li><strong>1991</strong>&nbsp;&#8212;&nbsp;He died of bronchial pneumonia on November 24, 1991</li>
+                <li><strong>2001</strong>&nbsp;&#8212;&nbsp;In 2001, Queen was inducted into the Rock and Roll Hall of Fame in Cleveland, Ohio</li>
+            </ul>
+            <p>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Freddie_Mercury" id="tribute-link" target="_blank">Wikipedia entry</a></p>
+        </div>
+    </div>
+    </body>
 </html>
