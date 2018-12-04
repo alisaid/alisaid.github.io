@@ -17,7 +17,7 @@
         
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rize%27den_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/800px-Rize%27den_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg" alt="Rize's picture" width="200px" >
     
-    <p> As you can see on the picture above it has a picturesque scenery.That's awesome</p>
+    <p> As you can see on the picture above it has a picturesque scenery.That's awesome. Now I made some changes.</p>
     
     <h2 id="greeny">What you eat </h2>
     <img src="https://www.kasandbox.org/programming-images/food/tomatoes.png" width="100px">
