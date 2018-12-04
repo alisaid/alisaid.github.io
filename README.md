@@ -1,88 +1,45 @@
+
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title id="title">Marriage Ceremony invitation</title>
-        <style>
-        
-             #title {
-                 color:purple;
-             }
-            #img-div {
-                border-bottom:2px solid rgb(51, 35, 51);
-            }    
-            
-            .head {
-                font-size:22px;
-                color: rgb(235, 70, 29);
-                border-bottom:2px solid rgb(50, 40, 125);
-            }
-            
-            #topic {
-                font-size:19px;
-                color: rgb(235, 70, 29);
-                border-bottom:2px solid rgb(50, 40, 125);
-                text-align: center;
-            }
-          
-            #main {
-                position:absolute;
-                float:left;
-                width:50%;
-            }
-            
-            .right_side {
-                float:right;
-                width:50%;
-            }
-            
-            #font_size {
-                font-size:12px;
-            }
-            .center {
-                text-align:center;
-            }
-        </style>
-    </head>
-    <body>
-    <div id="img-div">
-        <img src="https://www.kasandbox.org/programming-images/space/healthheart.png" width="90px">
-        <img src="https://www.kasandbox.org/programming-images/space/healthheart.png" width="90px">
-        <img src="https://www.kasandbox.org/programming-images/space/healthheart.png" width="90px">
-        <img src="https://www.kasandbox.org/programming-images/space/healthheart.png" width="90px">
-        <img src="https://www.kasandbox.org/programming-images/space/healthheart.png" width="90x">
-        </div>
-        
-       <div id="main">
-        <h1 class="head">FILM:A LOVE STORY</h1>
-        <table>
-         <thead>
-           <tr> <div>
-               <th id="font_size">SCENE</th>
-               <th id="font_size">ACTION REPLAY</th>
-               <th id="font_size">PRICE</th>
-               </div>
-           </tr>
-           </thead>
-           <tbody>
-               <tr>
-                   <td id ="font_size" align="center">1</td>
-                   <td id ="font_size" align="center">NONE</td>
-                   <td id ="font_size" align="center">JUST APPLAUSE</td>
-                   
-               </tr>
-           </tbody>
-        </table>
-        <h5 align="center">LEADING ACTORS<br>GAMZE & ALI</h5>
-        <h6><span class="center">PRODUCERS</span><br>Leyla & Aydin<br>Damarseckin<br>Meral & Nuri<br>Pehlivan
-        </h6>
-        <p>DATE<br>21/02/2018</p>
-        </div>
-        
-        <div class="right_side">
-        <p id="topic">TOPIC</p><br>
-        <img src="https://www.kasandbox.org/programming-images/space/girl4.png">
-        <img src="https://www.kasandbox.org/programming-images/space/girl5.png">
-        </div>
-    </body>
+<head>
+	<meta charset="utf-8">
+	<title>GitHub &amp; BitBucket HTML Preview</title>
+	<style>
+	body {
+		font: 12px 'Helvetica Neue', Helvetica, Arial, freesans, clean, sans-serif;
+		color: #333;
+	}
+	h1 {
+		font-size: 20px;
+	}
+	a {
+		color: #666;
+	}
+	form {
+		padding: 20px; 
+		text-align: center;
+	}
+	strong {
+		color: #333;
+		background-color: #FAFFA6;
+		padding: 0.1em;
+	}
+	#footer {
+		margin: 20px 0;
+		font-size: 10px;
+		color: #666;
+	}
+	</style>
+</head>
+<body>
+	<form id="previewform" action="">
+		<h1>GitHub &amp; BitBucket HTML Preview</h1>
+		<p>Enter URL of the HTML file to preview: <input type="url" id="file" value="" placeholder="e.g. https://github.com/user/repo/blob/master/index.html" size="60" autofocus> <input type="submit" value="&raquo;"></p>
+		<p>or prepend to the URL: <strong>http://htmlpreview.github.io/?</strong>https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html</p>
+		<p>or use this bookmarklet while browsing GitHub or BitBucket: <a href="javascript:void('http://htmlpreview.github.io/'==window.location?alert('Drag me to your bookmarks bar!'):window.location='http://htmlpreview.github.io/?'+window.location)"><strong>HTMLPreview</strong></a></p>
+		<p id="footer">Developed by <a href="https://github.com/niutech">niu tech</a> | Contribute on <a href="https://github.com/htmlpreview/htmlpreview.github.com">GitHub</a></p>
+	</form>
+	<script src="/htmlpreview.min.js"></script>
+	<script>HTMLPreview.init();</script>
+</body>
 </html>
