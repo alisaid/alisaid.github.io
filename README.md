@@ -59,24 +59,23 @@ li {
             <div id="img-caption">Hocaefendi</div>
         </div>
         <div id="tribute-info">
-            <p id="timeline-caption">Here's a timeline of Freddie Mercury's life:</p>
+            <p id="timeline-caption">Lifestory of M. Fethullah Gulen :</p>
             <ul>
-                <li><strong>1946</strong>&nbsp;&#8212;&nbsp;Farrokh Bulsara (Freddie Mercury) was born in Zanzibar, Tanzania on September 5, 1946</li>
-                <li><strong>1954</strong>&nbsp;&#8212;&nbsp;At the Age of eight, Farrokh began his education at St. Peters English boarding school (near Bombay, India)</li>
-                <li><strong>1958</strong>&nbsp;&#8212;&nbsp;While in school, Farrokh began referring to himself as Freddie, and in 1958, he formed a music group, The Hectics.</li>
-                <li><strong>1964</strong>&nbsp;&#8212;&nbsp;Freddie Mercury moved to Middlesex, England in 1964, at the age of 17.</li>
-                <li><strong>1967</strong>&nbsp;&#8212;&nbsp;Freddie joined the band Smile with Roger Talyor and Brian May, and Tim Staffel.</li>
-                <li><strong>1970</strong>&nbsp;&#8212;&nbsp;In 1970, Freddie Mercury took over as the lead singer of Smile, and renamed the band Queen.</li>
-                <li><strong>1975</strong>&nbsp;&#8212;&nbsp;The album A Night At The Opera was released</li>
-                <li><strong>1975</strong>&nbsp;&#8212;&nbsp;Freddie Mercury toured Japan with Queen</li>
-                <li><strong>1984</strong>&nbsp;&#8212;&nbsp;Queen decided to take a break. During that break, Freddie Mercury decided to release a solo album called Love Kills.</li>
-                <li><strong>1988</strong>&nbsp;&#8212;&nbsp;The Open Air festival in Barcelona, on October 8th, was Freddie Mercury's last performance.</li>
-                <li><strong>1991</strong>&nbsp;&#8212;&nbsp;The album Innuendo was released in 1991</li>
-                <li><strong>1991</strong>&nbsp;&#8212;&nbsp;November 23, 1991, the day before he died, Freddie Mercury announced that he had AIDS.</li>
-                <li><strong>1991</strong>&nbsp;&#8212;&nbsp;He died of bronchial pneumonia on November 24, 1991</li>
-                <li><strong>2001</strong>&nbsp;&#8212;&nbsp;In 2001, Queen was inducted into the Rock and Roll Hall of Fame in Cleveland, Ohio</li>
+                <li><strong>1941</strong>&nbsp;&#8212;&nbsp;Born in Erzurum, Turkey on April 27</li>
+                <li><strong>1946-1955</strong>&nbsp;&#8212;&nbsp;He took part in Islamic education in some Erzurum madrasas.</li>
+                <li><strong>1955</strong>&nbsp;&#8212;&nbsp;When he was 14 he gave his first sermon. he was influenced by the ideas of Said Nursi</li>
+                <li><strong>1955-1966</strong>&nbsp;&#8212;&nbsp;Mr Gulen preached a lot of sermons in different cities such as Amasya, Tokat, Sivas and Erzincan. He was transferred to a mosque in Izmir in 1966.</li>
+                <li><strong>1959</strong>&nbsp;&#8212;&nbsp;He became an assistant imam at Ucserefeli Mosque in Edirne .</li>
+                <li><strong>1961</strong>&nbsp;&#8212;&nbsp;He joined the army and served as a comminacator.</li>
+                <li><strong>1964</strong>&nbsp;&#8212;&nbsp;He returned to Edirne and started working as a Quran educator and an imam at Darul Hadis Mosque.</li>
+                <li><strong>1966</strong>&nbsp;&#8212;&nbsp;He was transferred to Edirne and his mentality and ideas became clearer. He gave speeches about education, science, Darwinizm, economy and social justice all around Turkey.</li>
+                <li><strong>1968</strong>&nbsp;&#8212;&nbsp;He was sent to Hajj as a staff of minister of religion.</li>
+                <li><strong>1971</strong>&nbsp;&#8212;&nbsp;He was arrested by the memorandum of 12 March 1971.</li>
+                <li><strong>1972-1974</strong>&nbsp;&#8212;&nbsp;He worked as a preacher in Edremit and Manisa.</li>
+                <li><strong>1977</strong>&nbsp;&#8212;&nbsp;He gave his first speech in Istanbul Eminonu Yeni Cami. Then he was sent to Germany as a preacher and gave speeches in Berlin, Farnkfurt, Hannover, Hamburg and Munih.</li>
+                <li><strong>1979</strong>&nbsp;&#8212;&nbsp;He started writing articles in the journal of Sizinti.</li>
+                <li><strong>1998</strong>&nbsp;&#8212;&nbsp;He met Papa II. Jean Paul in Vatikan.</li>
             </ul>
-            <p>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Freddie_Mercury" id="tribute-link" target="_blank">Wikipedia entry</a></p>
         </div>
     </div>
     </body>
