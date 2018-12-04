@@ -15,7 +15,14 @@
             .head {
                 font-size:22px;
                 color: rgb(235, 70, 29);
-                border-bottom:1px solid rgb(50, 40, 125);
+                border-bottom:2px solid rgb(50, 40, 125);
+            }
+            
+            #topic {
+                font-size:19px;
+                color: rgb(235, 70, 29);
+                border-bottom:2px solid rgb(50, 40, 125);
+                text-align: center;
             }
           
             #main {
@@ -73,7 +80,7 @@
         </div>
         
         <div class="right_side">
-        <p>TOPIC</p><br>
+        <p id="topic">TOPIC</p><br>
         <img src="https://www.kasandbox.org/programming-images/space/girl4.png">
         <img src="https://www.kasandbox.org/programming-images/space/girl5.png">
         </div>
