@@ -2,13 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title id="title">Marriage Ceremony invitation</title>
+        <title id="title">Muhammed Fethullah Gulen</title>
         <style>
-
-body {
-    background: linear-gradient(35deg, #f7f7c1, #cccccc);
-    font-family: 'Domine', serif;
-}
 
 #main {
     margin: auto;
