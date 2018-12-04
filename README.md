@@ -5,23 +5,25 @@
         <title id="title">Muhammed Fethullah Gulen</title>
         <style>
 
+
 #main {
     margin: auto;
-    width: 85%;
+    width: 80%;
 }
-#title, #img-caption {
+#title {
     text-align: center;
 }
 
 #img-caption {
     margin: 15px;
+    text-align: center;
     font-size: 16px;
     font-weight: bold;
 }
 
 #tribute-info {
     margin: 5px auto;
-    width: 85%;
+    width: 80%;
     font-size: 16px;
 }
 
@@ -51,10 +53,10 @@ li {
     </head>
     <body>
      <div id="main">
-        <h1 id="title">Freddie Mercury — Show Must Go On</h1>
+        <h1 id="title">Muhammed Fethullah Gulen</h1>
         <div id="img-div">
-            <img src="http://i.huffpost.com/gen/2026402/images/o-FREDDIE-MERCURY-CROWN-facebook.jpg" alt="" id="image">
-            <div id="img-caption">Freddie Mercury</div>
+            <img src="https://www.google.co.uk/url?sa=i&source=images&cd=&ved=2ahUKEwjp6p-n94bfAhUHUhoKHS4sAg4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.shaber3.com%2Ffethullah-gulen-hocaefendi-canli-yayinda-haberi%2F1257490%2F&psig=AOvVaw2jbPSmP4zK1u5bYKDrbqIS&ust=1544038906897332" alt="" id="image">
+            <div id="img-caption">Hocaefendi</div>
         </div>
         <div id="tribute-info">
             <p id="timeline-caption">Here's a timeline of Freddie Mercury's life:</p>
