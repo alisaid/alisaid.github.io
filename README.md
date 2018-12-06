@@ -46,7 +46,6 @@ li {
         <h1 id="title">Muhammed Fethullah Gulen</h1>
         <div id="img-div">
             <img src="https://imgur.com/a/d55S4Pm" alt="Hocaefendi" id="image" width="50px" height="150px">
-            <div id="img-caption">Hocaefendi</div>
         </div>
         <div id="tribute-info">
             <p id="timeline-caption">Lifestory of M. Fethullah Gulen :</p>
