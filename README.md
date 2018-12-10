@@ -18,7 +18,7 @@
 }
 #tribute-info {
     margin: 5px auto;
-    width: 50%;
+    width: 60%;
     font-size: 16px;
 }
 #timeline-caption{    
