@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -19,7 +18,7 @@
 }
 #tribute-info {
     margin: 5px auto;
-    width: 80%;
+    width: 50%;
     font-size: 16px;
 }
 #timeline-caption{    
@@ -38,13 +37,19 @@ ul {
 li {
     margin: 16px auto;
 }
+.center {
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
         </style>
     </head>
     <body>
      <div id="main">
         <h1 id="title">A Turkish Scholar</h1>
         <div id="img-div">
-            <img src="https://imgur.com/a/d55S4Pm" alt="H.E" id="image" width="50px" height="150px">
+            <img src="./hocaefendi.jpg" alt="H.E"  id="image" class="center">
         </div>
         <div id="tribute-info">
             <p id="timeline-caption">Lifestory of Him :</p>
